@@ -1,5 +1,3 @@
-# bookai-www
-Strona internetowa aplikacji BookAi
 ```html
 <!DOCTYPE html>
 <html lang="pl">
